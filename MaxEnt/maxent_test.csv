@@ -1,0 +1,10 @@
+Index,Codification,Frequency,Word1_XsC,Word2_sCX,Word1_VX,Word2_VX,"*Sibilant Clash",*Hiatus
+1,Xs_sX,,1,1,,,1,
+2,Xs_kCX,,1,,,,,
+3,Xs_VX,,1,,,1,,
+4,XkC_sX,,,1,,,,
+5,XV_sX,,,1,1,,,
+6,XkC_kCX,,,,,,,
+7,XkC_VX,,,,,1,,
+8,XV_kCX,,,,1,,,
+9,XV_XV,,,,1,1,,1
